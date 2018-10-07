@@ -8,7 +8,7 @@
 ### Project
 Description.
 
-[![Gallery](vaco-gallery.png)](https://github.com/mothnode/vaco/blob/master/vaco-gallery.png)
+[![Gallery](vaco-gallery.png)](https://github.com/mothnode/vaco/blob/master/template-gfx/vaco-quad-gallery.png)
 
 ### Features
 + Feature X
