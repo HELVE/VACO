@@ -3,7 +3,7 @@ Project Template Framework
 
 **Etymology:** vacō - 'I am void'
 
-[![Screenshot](screenshot.png)](https://joshavanier.github.io)
+[![Screenshot](vaco-banner.png)](https://github.com/mothnode/vaco/blob/master/vaco-banner.png)
 
 ![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
 
