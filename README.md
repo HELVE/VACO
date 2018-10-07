@@ -1,4 +1,4 @@
-[![Project Banner](vaco-banner.png)](/template-gfx/vaco-banner.png)
+[![Project Banner](vaco-banner.png)](template-gfx/vaco-banner.png)
 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 **Etymology:** vacō - 'I am void'
