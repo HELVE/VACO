@@ -1,4 +1,4 @@
-[![Project Banner](vaco-banner.png)](https://github.com/mothnode/vaco/blob/master/vaco-banner.png)
+![Project Banner](/template-gfx/vaco-banner.png)
 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 **Etymology:** vacō - 'I am void'
@@ -8,7 +8,7 @@
 ### Project
 Description.
 
-[![Gallery](vaco-gallery.png)](https://github.com/mothnode/vaco/blob/master/vaco-gallery.png)
+![Gallery](/template-gfx/vaco-quad-gallery.png)
 
 ### Features
 + Feature X
