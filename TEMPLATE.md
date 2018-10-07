@@ -1,21 +1,22 @@
 ![Project Banner](/template-gfx/vaco-banner.png)
 
-# VACŌ - PROJECT TEMPLATE FRAMEWORK
-**Etymology:** vacō - 'I am void'
+---
 
-![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
+# PROJECT NAME - BRIEF TAGLINE
+DESCRIPTION
 
-### Project
-Description.
+---
 
 ![Gallery](/template-gfx/vaco-quad-gallery.png)
 
-### Features
+# FEATURES
 + Feature X
 + Feature X
 + Feature X
 
-### Usage
+---
+
+# USAGE
 ```js
 // Instructions
 ```
