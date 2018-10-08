@@ -19,7 +19,7 @@ Description.
 ```js
 // Instructions
 
-1. Branch
+1. Fork the repo.
 2. Delete README.md
 3. ...
 ```
