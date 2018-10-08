@@ -1,6 +1,11 @@
 ![Project Banner](/template-gfx/vaco-banner.png)
 
 # PROJECT NAME - BRIEF TAGLINE
+
+```js
+INSPIRATION
+```
+
 DESCRIPTION
 
 ## FEATURES
