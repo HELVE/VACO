@@ -18,6 +18,10 @@ Description.
 ### Usage
 ```js
 // Instructions
+
+1. Branch
+2. Delete README.md
+3. ...
 ```
 
 ### Commit Glyphs
