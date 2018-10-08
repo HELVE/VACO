@@ -3,8 +3,6 @@
 # PROJECT NAME - BRIEF TAGLINE
 DESCRIPTION
 
-![Gallery](/template-gfx/vaco-quad-gallery.png)
-
 # FEATURES
 + Feature X
 + Feature X
@@ -15,7 +13,11 @@ DESCRIPTION
 // Instructions
 ```
 
-### Commit Glyphs
+# PROJECT GALLERY
+
+![Gallery](/template-gfx/vaco-quad-gallery.png)
+
+### Commit Signs
 
 + ☰ Code structure and formatting
 + ▲ Performance improvements
@@ -25,11 +27,4 @@ DESCRIPTION
 + ⎔ Documentation
 + ❑ UI design
 + ⚑ Release
-
-
----
-
-Tim Moth
-
-[![@mothnode](https://joshavanier.github.io/badges/svg/twitter.svg)](https://twitter.com/mothnode) [![Patreon](https://joshavanier.github.io/badges/svg/website.svg)](https://www.patreon.com/cyberhippie)
 
