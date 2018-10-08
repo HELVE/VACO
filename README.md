@@ -1,4 +1,4 @@
-[![Project Banner](vaco-banner.png)](template-gfx/vaco-banner.png)
+![Project Banner](/template-gfx/vaco-banner.png)
 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 **Etymology:** vacō - 'I am void'
@@ -8,7 +8,7 @@
 ### Project
 Description.
 
-[![Gallery](vaco-gallery.png)](template-gfx/vaco-quad-gallery.png)
+![Gallery](/template-gfx/vaco-quad-gallery.png)
 
 ### Features
 + Feature X
@@ -18,6 +18,10 @@ Description.
 ### Usage
 ```js
 // Instructions
+
+1. Branch
+2. Delete README.md
+3. ...
 ```
 
 ### Commit Glyphs
