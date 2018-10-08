@@ -3,21 +3,21 @@
 # PROJECT NAME - BRIEF TAGLINE
 DESCRIPTION
 
-# FEATURES
+## FEATURES
 + Feature X
 + Feature X
 + Feature X
 
-# USAGE
+## USAGE
 ```js
 // Instructions
 ```
 
-# PROJECT GALLERY
+## PROJECT GALLERY
 
 ![Gallery](/template-gfx/vaco-quad-gallery.png)
 
-### Commit Signs
+## Commit Signs
 
 + ☰ Code structure and formatting
 + ▲ Performance improvements
