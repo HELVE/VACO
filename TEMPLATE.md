@@ -1,11 +1,7 @@
 ![Project Banner](/template-gfx/vaco-banner.png)
 
----
-
 # PROJECT NAME - BRIEF TAGLINE
 DESCRIPTION
-
----
 
 ![Gallery](/template-gfx/vaco-quad-gallery.png)
 
@@ -13,8 +9,6 @@ DESCRIPTION
 + Feature X
 + Feature X
 + Feature X
-
----
 
 # USAGE
 ```js
