@@ -16,7 +16,7 @@ Description.
 + Feature X
 
 ### Issues
-+ Issue 01
++ https://github.com/mothnode/vaco/issues/1
 + Issue 02
 + Issue 03
 
