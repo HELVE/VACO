@@ -15,6 +15,16 @@ Description.
 + Feature X
 + Feature X
 
+### Issues
++ Issue 01
++ Issue 02
++ Issue 03
+
+### Icebox
++ Idea
++ Idea
++ Idea
+
 ### Usage
 ```js
 // Instructions
