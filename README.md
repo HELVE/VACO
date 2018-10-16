@@ -1,4 +1,4 @@
-![Project Banner](/template-gfx/vaco-banner.png)
+![Project Banner](/assets/readme_visuals/example-banner.png)
 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 Vacō is a project template framework I created for the purposes of unifying and streamlining my projects information and data. 
