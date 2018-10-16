@@ -1,6 +1,8 @@
 ![Project Banner](/template-gfx/vaco-banner.png)
 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
+Vacō is a project template framework I created for the purposes of unifying and streamlining my projects information and data. 
+
 **Etymology:** vacō - 'I am void'
 
 ![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
@@ -16,7 +18,7 @@ Description.
 + Feature X
 
 ### Issues
-+ https://github.com/mothnode/vaco/issues/1
++ [#1](https://github.com/mothnode/vaco/issues/1) Create the basic structure of the project template
 + Issue 02
 + Issue 03
 
