@@ -10,7 +10,7 @@ Vacō is a project template framework I created for the purposes of unifying and
 ### Project
 Description.
 
-![Gallery](/template-gfx/vaco-quad-gallery.png)
+![Gallery](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Features
 + Feature X
