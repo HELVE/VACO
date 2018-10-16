@@ -10,7 +10,9 @@ Vacō is a project template framework I created for the purposes of unifying and
 ### Project
 Description.
 
+Dual Gallery
 ![Gallery](/assets/readme_visuals/example-quad-gallery.png)
+Triple Gallery
 
 ### Features
 + Feature X
@@ -46,11 +48,4 @@ Description.
 + ⎔ Documentation
 + ❑ UI design
 + ⚑ Release
-
-
----
-
-Tim Moth
-
-[![@mothnode](https://joshavanier.github.io/badges/svg/twitter.svg)](https://twitter.com/mothnode) [![Patreon](https://joshavanier.github.io/badges/svg/website.svg)](https://www.patreon.com/cyberhippie)
 
