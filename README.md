@@ -32,16 +32,15 @@ GALLERY (TRIPLE VERT)
 + Idea
 
 ### Usage
-```js
+```
 // Instructions
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
 
 1. Fork this repo.
-1. Alternatively just clone it directly via GitHub Desktop or other means.
-2. Download the 
-2. Delete README.md
-3. Adjust the folder structure to your project.
-4. 
+2. Alternatively just clone it directly via GitHub Desktop/other means.
+3. Pull it.
+4. Delete README.md
+5. Adjust the TEMPLATE.md structure and content to your project and rename it to README.md.
 ```
 
 ### Commit Glyphs
