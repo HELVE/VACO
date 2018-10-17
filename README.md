@@ -46,7 +46,7 @@ Vacō works best in conjunction with GitHub Desktop to make the setup process as
 Feel free to create issues and pull requests.
 
 ### License
-Vacō is available for everyone under (MIT License - read more here)[https://github.com/mothnode/vaco/blob/master/LICENSE.md].
+Vacō is available for everyone under [MIT License - read more here](https://github.com/mothnode/vaco/blob/master/LICENSE.md).
 
 ### Commit Glyphs
 
