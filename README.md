@@ -41,7 +41,10 @@ Vacō works best in conjunction with GitHub Desktop to make the setup process as
 3. Pull it.
 4. Delete README.md
 5. Adjust the TEMPLATE.md structure and content to your project and rename it to README.md.
-6. Use included .psd templates for imagery (banner, dual, triple, quad gallery formats).
+6. Use included .afdesign or .psd gallery design templates for imagery (banner, dual, triple, quad gallery formats included).
+7. Change the asset_category folders to types appropriate for your project (ex. audio, visual, research).
+8. Replace placeholder.png files with your own assets (if none are present yet just leave the original files for now).
+9. Subdivide the folder structure if necessary.
 ```
 
 ### Commit Glyphs
