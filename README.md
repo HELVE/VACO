@@ -10,7 +10,9 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ### Table of Contents
 
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
+
 ![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
+
 ![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Features
