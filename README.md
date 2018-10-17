@@ -16,9 +16,9 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Features
-+ Feature X
-+ Feature X
-+ Feature X
++ premade customizable project folder structure 
++ 4 gallery templates (including .psd and .afdesign project files)
++ Feature 3
 
 ### Issues
 + [#1](https://github.com/mothnode/vaco/issues/1) Create the basic structure of the project template
