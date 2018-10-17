@@ -42,6 +42,12 @@ Vacō works best in conjunction with GitHub Desktop to make the setup process as
 8. Subdivide the folder structure if necessary.
 ```
 
+### Contributing
+Feel free to create issues and pull requests.
+
+### License
+GitHub Licensing Guide.
+
 ### Commit Glyphs
 
 + ☰ Code structure and formatting
