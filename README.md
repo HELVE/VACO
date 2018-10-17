@@ -36,10 +36,8 @@ GALLERY (TRIPLE VERT)
 // Instructions
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
 
-1. Fork this repo.
-2. Alternatively just clone it directly via GitHub Desktop/other means.
-3. Pull it.
-4. Delete README.md
+1. Fork this repo or clone it via GitHub Desktop/other means.
+2. Pull it and delete README.md.
 5. Adjust TEMPLATE.md structure/content to your project, rename it README.md.
 6. Use .afdesign/.psd gallery design templates for imagery (banner, dual, triple, quad formats included).
 7. Export your gallery files to readme_visuals.
