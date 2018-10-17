@@ -2,10 +2,8 @@
 
 ![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
 
-# VACŌ - PROJECT TEMPLATE FRAMEWORK
-Vacō is a project template framework I created for the purposes of unifying and streamlining my projects information and data. 
-
-**Etymology:** vacō - 'I am void'
+# VACŌ - PROJECT TEMPLATE FRAMEWORK [PROJECT TITLE - TAGLINE]
+Vacō is a project template framework I created for the purposes of unifying and streamlining my project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. Fill the template structure with meaning.
 
 ### Project
 Description.
