@@ -8,6 +8,10 @@ Vacō is a project template framework created for the purpose of unifying and st
 Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
 
 ### Table of Contents
+1. x
+2. x
+3. x
+
 
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
 
