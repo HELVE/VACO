@@ -2,38 +2,44 @@
 
 ![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
 
+<a name="features"></a>
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 Vacō is a project template framework created for the purpose of unifying and streamlining my project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
 
-Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
-
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
+
+Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
 
 ![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
 
 ![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Table of Contents
-1. x
-2. x
-3. x
+1. [Introduction.](#intro)
+2. [Features.](#features)
+3. [Issues.](#issues)
+4. [Icebox.](#icebox)
+5. [Installation and usage guide.](#install)
+6. [Contributing.](#contribute)
+7. [License.](#license)
+8. [Credits.](#credits)
+9. [Commit Glyphs.](#glyphs)
 
+<a name="features"></a>
 ### Features
 + customizable project folder structure 
 + gallery templates (including .psd and .afdesign project files)
-+ Feature 3
 
+<a name="issues"></a>
 ### Issues
 + [#1](https://github.com/mothnode/vaco/issues/1) Create the basic structure of the project template
-+ Issue 02
-+ Issue 03
 
+<a name="icebox"></a>
 ### Icebox
-+ Idea
-+ Idea
-+ Idea
++ x
 
-### Installation and Usage (gifs?)
+<a name="install"></a>
+### Installation and Usage Guide
 ```
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
 
@@ -46,13 +52,19 @@ Vacō works best in conjunction with GitHub Desktop to make the setup process as
 7. Replace placeholder.png files with your assets (if none present leave the original files).
 8. Subdivide the folder structure if necessary.
 ```
-
+<a name="contribute"></a>
 ### Contributing
 Feel free to create issues and pull requests.
 
+<a name="license"></a>
 ### License
 Vacō is available for everyone under [MIT License - read more here](https://github.com/mothnode/vaco/blob/master/LICENSE.md).
 
+<a name="credits"></a>
+### Credits
++ @mothnode
+
+<a name="glyphs"></a>
 ### Commit Glyphs
 
 + ☰ Code structure and formatting
