@@ -2,7 +2,7 @@
 
 ![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
 
-# PROJECT NAME - DESCRIPTIVE TAGLINE
+# PROJECT NAME - TAGLINE
 Description.
 
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
@@ -21,19 +21,19 @@ Description.
 7. Commit Glyphs.
 
 ### Features
-+ Feature 01
-+ Feature 02
-+ Feature 03
++ Feature_01
++ Feature_02
++ Feature_03
 
 ### Issues
-+ Issue 01
-+ Issue 02
-+ Issue 03
++ Issue_01
++ Issue_02
++ Issue_03
 
 ### Icebox
-+ Idea 01
-+ Idea 02
-+ Idea 03
++ Idea_01
++ Idea_02
++ Idea_03
 
 ### Installation and Usage (gifs?)
 ```
