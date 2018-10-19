@@ -45,8 +45,8 @@ Description.
 
 <a name="install"></a>
 ### Installation and Usage Guide
-```
 Include basic necessary components. Gifs if required.
+```
 
 1. 
 2. 
