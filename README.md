@@ -36,11 +36,12 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 
 <a name="issues"></a>
 ### Issues
-+ [#1](https://github.com/mothnode/vaco/issues/1) Create the basic structure of the project template
++ [Change the colour scheme to a more visible one](https://github.com/mothnode/vaco/issues/5)
 
 <a name="icebox"></a>
 ### Icebox
 + Include creative project examples.
++ Include HELVE<superscript>AVR</superscript> footer.
 
 <a name="install"></a>
 ### Installation and Usage Guide
