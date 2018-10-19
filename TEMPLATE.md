@@ -37,16 +37,12 @@ Description.
 
 ### Installation and Usage (gifs?)
 ```
-Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
+Basic necessary components. 
 
-1. Fork this repo or clone it via GitHub Desktop/other means.
-2. Pull it and delete README.md.
-3. Adjust TEMPLATE.md structure/content to your project, rename it README.md.
-4. Use .afdesign/.psd gallery design templates for custom images (banner, dual, triple, quad formats included).
-5. Export your custom image files to readme_visuals.
-6. Change asset_category folders to appropriate types for your project (ex. audio, visual, research).
-7. Replace placeholder.png files with your assets (if none present leave the original files).
-8. Subdivide the folder structure if necessary.
+1. 
+2. 
+3. 
+
 ```
 
 ### Contributing
