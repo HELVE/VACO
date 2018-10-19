@@ -5,17 +5,6 @@
 <a name="features"></a>
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 
-### Table of Contents
-1. [Introduction.](#intro)
-2. [Features.](#features)
-3. [Issues.](#issues)
-4. [Icebox.](#icebox)
-5. [Installation and usage guide.](#install)
-6. [Contributing.](#contribute)
-7. [License.](#license)
-8. [Credits.](#credits)
-9. [Commit Glyphs.](#glyphs)
-
 Vacō is a project template framework created for the purpose of unifying and streamlining my project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
 
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
@@ -28,7 +17,20 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 <a name="features"></a>
+
+### Table of Contents
+1. [Introduction.](#intro)
+2. [Features.](#features)
+3. [Issues.](#issues)
+4. [Icebox.](#icebox)
+5. [Installation and usage guide.](#install)
+6. [Contributing.](#contribute)
+7. [License.](#license)
+8. [Credits.](#credits)
+9. [Commit Glyphs.](#glyphs)
+
 ### Features
++ comprehensive creative project framework
 + customizable project folder structure 
 + gallery templates (including .psd and .afdesign project files)
 
