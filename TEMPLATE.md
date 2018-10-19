@@ -1,23 +1,29 @@
 ![Project Banner](/assets/readme_visuals/example-banner.png)
 
+<a name="intro"></a>
 # PROJECT NAME - TAGLINE
 Description.
 
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
 
+Description.
+
 ![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
+
+Description.
 
 ![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Table of Contents
-1. [Features.](#features)
-2. [Issues.](#issues)
-3. [Icebox.](#icebox)
-4. [Installation and usage guide.](#install)
-5. [Contributing.](#contribute)
-6. [License.](#license)
-7. [Credits.](#credits)
-8. [Commit Glyphs.](#glyphs)
+1. [Introduction.](#intro)
+2. [Features.](#features)
+3. [Issues.](#issues)
+4. [Icebox.](#icebox)
+5. [Installation and usage guide.](#install)
+6. [Contributing.](#contribute)
+7. [License.](#license)
+8. [Credits.](#credits)
+9. [Commit Glyphs.](#glyphs)
 
 <a name="features"></a>
 ### Features
