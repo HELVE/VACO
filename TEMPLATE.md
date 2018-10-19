@@ -44,7 +44,7 @@ Description.
 + Idea_03
 
 <a name="install"></a>
-### Installation and Usage
+### Installation and Usage Guide
 ```
 Include basic necessary components. Gifs if required.
 
