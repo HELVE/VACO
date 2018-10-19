@@ -36,6 +36,7 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 <a name="issues"></a>
 ### Issues
 + ❑ [#5 Change the colour scheme to a more visible one.](https://github.com/mothnode/vaco/issues/5)
++ ❑ Add audio/visual/research glyphs
 
 <a name="icebox"></a>
 ### Icebox
@@ -68,7 +69,7 @@ Vacō is available for everyone under [MIT License - read more here](https://git
 + @mothnode
 
 <a name="glyphs"></a>
-### Commit Glyphs
+### Commit/Issue Glyphs
 
 + ☰ Code structure and formatting
 + ▲ Performance improvements
