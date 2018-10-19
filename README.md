@@ -4,16 +4,6 @@
 
 <a name="features"></a>
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
-Vacō is a project template framework created for the purpose of unifying and streamlining my project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
-
-![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
-
-Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
-
-
-![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
-
-![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Table of Contents
 1. [Introduction.](#intro)
@@ -25,6 +15,17 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 7. [License.](#license)
 8. [Credits.](#credits)
 9. [Commit Glyphs.](#glyphs)
+
+Vacō is a project template framework created for the purpose of unifying and streamlining my project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
+
+![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
+
+Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
+
+
+![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
+
+![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 <a name="features"></a>
 ### Features
