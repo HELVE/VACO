@@ -41,8 +41,8 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 
 <a name="install"></a>
 ### Installation and Usage Guide
-```
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
+```
 
 1. Fork this repo or clone it via GitHub Desktop/other means.
 2. Pull it and delete README.md.
