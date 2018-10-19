@@ -1,7 +1,5 @@
 ![Project Banner](/assets/readme_visuals/example-banner.png)
 
-![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
-
 # PROJECT NAME - TAGLINE
 Description.
 
@@ -37,7 +35,7 @@ Description.
 
 ### Installation and Usage (gifs?)
 ```
-Basic necessary components. 
+Include basic necessary components. 
 
 1. 
 2. 
@@ -46,10 +44,10 @@ Basic necessary components.
 ```
 
 ### Contributing
-Feel free to create issues and pull requests.
+Insert project contribution rules if allowed.
 
 ### License
-Vacō is available for everyone under [MIT License - read more here](https://github.com/mothnode/vaco/blob/master/LICENSE.md).
+Insert project licensing options if there are any.
 
 ### Commit Glyphs
 
