@@ -46,7 +46,6 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ### Installation and Usage Guide
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
 ```
-
 1. Fork this repo or clone it via GitHub Desktop/other means.
 2. Pull it and delete README.md.
 3. Adjust TEMPLATE.md structure/content to your project, rename it README.md.
