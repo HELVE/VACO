@@ -2,10 +2,8 @@
 
 ![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
 
-# VACŌ - PROJECT TEMPLATE FRAMEWORK
-Vacō is a project template framework created for the purpose of unifying and streamlining my project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
-
-Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
+# PROJECT NAME - DESCRIPTIVE TAGLINE
+Description.
 
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
 
@@ -14,24 +12,28 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Table of Contents
-1. x
-2. x
-3. x
+1. Features.
+2. Issues.
+3. Icebox.
+4. Installation and usage guide.
+5. Contributing.
+6. License.
+7. Commit Glyphs.
 
 ### Features
-+ customizable project folder structure 
-+ gallery templates (including .psd and .afdesign project files)
-+ Feature 3
++ Feature 01
++ Feature 02
++ Feature 03
 
 ### Issues
-+ [#1](https://github.com/mothnode/vaco/issues/1) Create the basic structure of the project template
++ Issue 01
 + Issue 02
 + Issue 03
 
 ### Icebox
-+ Idea
-+ Idea
-+ Idea
++ Idea 01
++ Idea 02
++ Idea 03
 
 ### Installation and Usage (gifs?)
 ```
