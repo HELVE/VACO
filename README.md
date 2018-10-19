@@ -36,7 +36,7 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 <a name="issues"></a>
 ### Issues
 + ❑ [#5 Change the colour scheme to a more visible one.](https://github.com/mothnode/vaco/issues/5)
-+ ❑ Add audio/visual/research glyphs
++ ❑ [#6 Add audio/visual/research glyphs](https://github.com/mothnode/vaco/issues/6)
 
 <a name="icebox"></a>
 ### Icebox
