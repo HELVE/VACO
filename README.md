@@ -5,7 +5,7 @@
 <a name="features"></a>
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 
-Vacō is a project template framework created for the purpose of unifying and streamlining my project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
+Vacō is a project template framework created for the purpose of unifying and streamlining project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
 
 ![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
 
