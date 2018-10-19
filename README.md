@@ -37,7 +37,7 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 
 <a name="icebox"></a>
 ### Icebox
-+ x
++ Include creative project examples.
 
 <a name="install"></a>
 ### Installation and Usage Guide
