@@ -10,8 +10,6 @@ Vacō is a project template framework created for the purpose of unifying projec
 
 Fill the template structure with your own meaning, don't hesitate to make it yours. Modify the sections, omit or add elements as you please if a need arises. This template is supposed to work for you as fluid outline not as a rigid box - you know what you works best for a certain project, adjust accordingly.
 
-![GALLERY QUAD](/assets/readme_visuals/vaco-quad-gallery.png)
-
 <a name="features"></a>
 ### Table of Contents
 1. [Introduction.](#intro)
@@ -27,7 +25,7 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ### Features
 + comprehensive creative project framework
 + customizable project folder structure 
-+ gallery templates (including .psd and .afdesign project files)
++ 4 gallery templates including .psd and .afdesign project files
 
 <a name="issues"></a>
 ### Issues
@@ -55,7 +53,7 @@ Vacō works best in conjunction with GitHub Desktop to make the setup process as
 ```
 <a name="contribute"></a>
 ### Contributing
-You are welcome to create issues and pull requests. Please either pitch general ideas or explain thoroughly what you would like to add if you have a specific vision.
+You are welcome to create issues and pull requests. Please either give general pitches or explain thoroughly what you would like to add if you have a specific vision. I will gladly brainstorm ideas with you.
 
 <a name="license"></a>
 ### License
