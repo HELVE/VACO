@@ -30,6 +30,7 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 <a name="issues"></a>
 ### Issues
 + ❑ [#6 Add audio/visual/research glyphs](https://github.com/mothnode/vaco/issues/6)
++ ⎔ [#8 Make installation guide shorter and easier to process.](https://github.com/mothnode/vaco/issues/8)
 
 <a name="icebox"></a>
 ### Icebox
