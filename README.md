@@ -1,22 +1,20 @@
 ![Project Banner](/assets/readme_visuals/vaco-banner.png)
 
-![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
-
-<a name="features"></a>
+<a name="intro"></a> 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
-
 Vacō is a project template framework created for the purpose of unifying and streamlining project information and data. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'. 
 
-![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
+![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
-Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
+Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it.
 
-![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
+![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
 
-![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
+This template is supposed to work for you as fluid outline not as rigid box - you know what you need best for a certain project, adjust accordingly.
+
+![GALLERY QUAD](/assets/readme_visuals/vaco-quad-gallery.png)
 
 <a name="features"></a>
-
 ### Table of Contents
 1. [Introduction.](#intro)
 2. [Features.](#features)
@@ -48,13 +46,14 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
 ```
 1. Fork this repo or clone it via GitHub Desktop/other means.
-2. Pull it and delete README.md.
-3. Adjust TEMPLATE.md structure/content to your project, rename it README.md.
-4. Use .afdesign/.psd gallery design templates for custom images (banner, dual, triple, quad formats included).
-5. Export your custom image files to readme_visuals.
-6. Change asset_category folders to appropriate types for your project (ex. audio, visual, research).
-7. Replace placeholder.png files with your assets (if none present leave the original files).
-8. Subdivide the folder structure if necessary.
+2. Pull it and delete README.md and readme_visuals.
+3. Adjust TEMPLATE.md to your liking, rename it README.md. 
+4. Use .afdesign/.psd gallery templates for custom images (banner, dual, triple, quad).
+5. Export your custom image files to template_visuals folder.
+6. Rename template_visuals folder to readme_visuals.
+7. Change asset_category folders to appropriate types for your project (ex. audio, visual, research).
+8. Replace placeholder.png files with your assets (if none present leave the original files).
+9. Subdivide the folder structure if necessary.
 ```
 <a name="contribute"></a>
 ### Contributing
