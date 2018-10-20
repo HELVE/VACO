@@ -40,9 +40,10 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ### Installation and Usage Guide
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
 ```
-1. Fork this repo or clone it via GitHub Desktop/other means.
+1. Fork this repo or clone it via GitHub Desktop.
+2. Change the name of the repo to your project's name.
 2. Pull it and delete README.md and readme_visuals.
-3. Adjust TEMPLATE.md to your liking, rename it README.md. 
+3. Fill in TEMPLATE.md with your data, rename it README.md. 
 4. Use .afdesign/.psd gallery templates for custom images (banner, dual, triple, quad).
 5. Export your custom image files to template_visuals folder.
 6. Rename template_visuals folder to readme_visuals.
