@@ -53,7 +53,7 @@ Vacō works best in conjunction with GitHub Desktop to make the setup process as
 ```
 <a name="contribute"></a>
 ### Contributing
-You are welcome to create issues and pull requests. Please either pitch general ideas or explain thoroughly what you would like to add if you have a specific vision.
+You are welcome to create issues and pull requests. Please either give general pitches or explain thoroughly what you would like to add if you have a specific vision. I will gladly brainstorm ideas with you.
 
 <a name="license"></a>
 ### License
