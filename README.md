@@ -6,14 +6,15 @@ Vacō is a project template framework created for the purpose of unifying and st
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
-Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it. Templates are supposed to work for you as fluid outlines not as rigid boxes - you know what you need best for a certain project.
+Fill the template structure with your own meaning, don't hesitate to make it yours. Change the sections, template's structure if a need arises to modify it.
 
 ![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
+
+This template is supposed to work for you as fluid outline not as rigid box - you know what you need best for a certain project, adjust accordingly.
 
 ![GALLERY QUAD](/assets/readme_visuals/vaco-quad-gallery.png)
 
 <a name="features"></a>
-
 ### Table of Contents
 1. [Introduction.](#intro)
 2. [Features.](#features)
