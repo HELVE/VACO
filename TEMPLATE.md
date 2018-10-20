@@ -1,18 +1,18 @@
-![Project Banner](/assets/readme_visuals/example-banner.png)
+![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
 # PROJECT NAME - TAGLINE
 Description.
 
-![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
 
-![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
+![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 
 Description.
 
-![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
+![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
 
 ### Table of Contents
 1. [Introduction.](#intro)
