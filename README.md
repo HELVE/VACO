@@ -1,4 +1,4 @@
-![Project Banner](/assets/readme_visuals/example-banner.png)
+![Project Banner](/assets/readme_visuals/vaco-banner.png)
 
 ![MIT](https://joshavanier.github.io/badges/svg/mit.svg)
 
