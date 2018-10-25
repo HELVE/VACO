@@ -76,3 +76,7 @@ Vacō is available for everyone under [MIT License - read more here](https://git
 + ❑ UI design
 + ⚑ Release
 
+---
+
+Developed by Helve<sup>AVR</sup>
+
