@@ -1,5 +1,4 @@
 ![BANNERTAG](/assets/readme_visuals/helve-project-bannertag.png)
-
 ![Project Banner](/assets/readme_visuals/vaco-banner.png)
 
 <a name="intro"></a> 
