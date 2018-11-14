@@ -1,4 +1,4 @@
-![BANNERTAG](/assets/readme_visuals/helve-banner.png)
+[(![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 ![Project Banner](/assets/readme_visuals/vaco-banner.png)
 
