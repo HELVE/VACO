@@ -78,7 +78,7 @@ Vacō is available for everyone under [MIT License - read more here](https://git
 
 ---
 
-![GALLERY DUAL](/assets/readme_visuals/helve-project-bannertag.png)
+![BANNERTAG](/assets/readme_visuals/helve-project-bannertag.png)
 
 Developed by Helve<sup>AVR</sup>
 
