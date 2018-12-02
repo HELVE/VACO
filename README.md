@@ -1,10 +1,10 @@
-[![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
-
 ![Project Banner](/assets/readme_visuals/vaco-banner.png)
 
 <a name="intro"></a> 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
 Vacō is a project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
+
+[![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
