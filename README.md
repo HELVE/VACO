@@ -1,3 +1,5 @@
+[![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
+
 ![Project Banner](/assets/readme_visuals/vaco-banner.png)
 
 <a name="intro"></a> 
@@ -75,7 +77,3 @@ Vacō is available for everyone under [MIT License - read more here](https://git
 + ⎔ Documentation
 + ❑ UI design
 + ⚑ Release
-
-[![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
-
-
