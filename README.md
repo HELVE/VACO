@@ -1,6 +1,6 @@
-[![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
-
 ![Project Banner](/assets/readme_visuals/vaco-banner.png)
+
+[![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a> 
 # VACŌ - PROJECT TEMPLATE FRAMEWORK
