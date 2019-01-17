@@ -22,7 +22,6 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 6. [Contributing.](#contribute)
 7. [License.](#license)
 8. [Credits.](#credits)
-9. [Commit Glyphs.](#glyphs)
 
 ### Features
 + comprehensive creative project framework
@@ -65,5 +64,3 @@ Vacō is available for everyone under [MIT License - read more here](https://git
 <a name="credits"></a>
 ### Credits
 + @mothnode
-
-<a name="glyphs"></a>
