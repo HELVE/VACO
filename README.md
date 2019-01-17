@@ -67,13 +67,3 @@ Vacō is available for everyone under [MIT License - read more here](https://git
 + @mothnode
 
 <a name="glyphs"></a>
-### Commit/Issue Glyphs
-
-+ ☰ Code structure and formatting
-+ ▲ Performance improvements
-+ ⨯ File deletion
-+ ∗ Bugfix
-+ ⬡ New Feature
-+ ⎔ Documentation
-+ ❑ UI design
-+ ⚑ Release
