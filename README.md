@@ -28,16 +28,6 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 + customizable project folder structure 
 + 4 gallery templates including .psd and .afdesign project files
 
-<a name="issues"></a>
-### Issues
-+ <del>[#6 Add audio/visual/research glyphs](https://github.com/mothnode/vaco/issues/6)
-+ [#8 Make installation guide shorter and easier to process.](https://github.com/mothnode/vaco/issues/8)
-
-<a name="icebox"></a>
-### Icebox
-+ Include creative project examples.
-+ <del>Include HELVE<sup>AVR</sup> footer.
-
 <a name="install"></a>
 ### Installation and Usage Guide
 Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
