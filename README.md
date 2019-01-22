@@ -16,12 +16,10 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 ### Table of Contents
 1. [Introduction.](#intro)
 2. [Features.](#features)
-3. [Issues.](#issues)
-4. [Icebox.](#icebox)
-5. [Installation and usage guide.](#install)
-6. [Contributing.](#contribute)
-7. [License.](#license)
-8. [Credits.](#credits)
+3. [Installation and usage guide.](#install)
+4. [Contributing.](#contribute)
+5. [License.](#license)
+6. [Credits.](#credits)
 
 ### Features
 + comprehensive creative project framework
