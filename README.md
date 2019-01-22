@@ -36,7 +36,7 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 <a name="icebox"></a>
 ### Icebox
 + Include creative project examples.
-+ Include HELVE<sup>AVR</sup> footer.
++ <del>Include HELVE<sup>AVR</sup> footer.
 
 <a name="install"></a>
 ### Installation and Usage Guide
