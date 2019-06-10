@@ -28,8 +28,7 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 
 <a name="install"></a>
 ### Installation and Usage Guide [UPDATED]
-Vacō can be used using "Use This Template" at the top of the repo, making the setup process instantenous.
-Alternatively you can use GitHub Desktop: 
+Vacō has an instantenous setup process being a GitHub template repo. Click "Use This Template" at the top of the repo to begin. Alternatively you can use GitHub Desktop: 
 ```
 1. Fork this repo or clone it via GitHub Desktop.
 2. Change the name of the repo to your project's name.
