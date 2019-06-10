@@ -27,8 +27,9 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 + 4 gallery templates including .psd and .afdesign project files
 
 <a name="install"></a>
-### Installation and Usage Guide
-Vacō works best in conjunction with GitHub Desktop to make the setup process as quick as possible. 
+### Installation and Usage Guide [UPDATED]
+Vacō can be used using "Use This Template" at the top of the repo, making the setup process instantenous.
+Alternatively you can use GitHub Desktop: 
 ```
 1. Fork this repo or clone it via GitHub Desktop.
 2. Change the name of the repo to your project's name.
